@@ -18,6 +18,7 @@ googleapis.l.google.com
 mtalk.google.com
 gstatic.com
 www.gstatic.com
+maps.gstatic.com
 
 #spotify
 spclient.wg.spotify.com
@@ -30,6 +31,7 @@ yastatic.net
 mc.yandex.ru
 maps.yastatic.net
 static-pano.maps.yandex.ru
+yandex-question.naydex.net
 
 #vk
 userapi.com
