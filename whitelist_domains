@@ -8,6 +8,8 @@ video-stats.l.google.com
 www.googleapis.com 
 youtubei.googleapis.com
 oauthaccountmanager.googleapis.com
+(\.|^)googlevideo\.com$
+googlevideo.com
 
 #google
 android.clients.google.com
