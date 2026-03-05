@@ -9170,6 +9170,7 @@ rr9---sn-n8v7kn7k.googlevideo.com
 rr9---sn-n8v7sney.googlevideo.com
 rr9---sn-xuj-5qq6.googlevideo.com
 googlevideo.com
+accounts.youtube.com
 
 #google
 android.clients.google.com
@@ -9182,6 +9183,7 @@ gstatic.com
 www.gstatic.com
 maps.gstatic.com
 encrypted-tbn0.gstatic.com
+console.cloud.google.com
 
 #telegram
 telegra.ph
@@ -10211,3 +10213,11 @@ www.pornhub.com
 #gismeteo
 gismeteo.st
 
+#avito
+avito.st
+www.avito.st
+
+#exteragram/ayugram
+exteragram.app
+api.exteragram.app
+update.ayugram.one
